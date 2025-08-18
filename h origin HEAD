@@ -1,0 +1,213 @@
+[33m448bed5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdrug-sideeffect-feature[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/drug-sideeffect-feature[m[33m, [m[1;31morigin/drug-sideeffect[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdrug-sideeffect[m[33m)[m drugSideEggect-feature
+[33m79139f1[m Merge pull request #134 from modi-meet/add-favicon
+[33mbb941b4[m Merge pull request #113 from vanshika-ramchandani/feature/drug-comparison
+[33mbba399e[m Merge branch 'main' of https://github.com/MAVERICK-VF142/Drx.MediMate into feature/drug-comparison
+[33m1f439b3[m Error solved: NoModuleFound
+[33mf9b621e[m Update backend/templates/allergy-checker.html
+[33m28d88e8[m Update backend/templates/index.html
+[33mcc8c70e[m Update backend/templates/drug_info.html
+[33m12acb84[m Update backend/templates/my_account.html
+[33m705e21a[m Update backend/templates/prescription_validator.html
+[33mffb75ec[m Update backend/templates/student-dashboard.html
+[33m9ffb416[m Update backend/templates/symptom_checker.html
+[33m186598d[m Update backend/templates/upload_image.html
+[33m9f59caf[m Add favicon to all pages
+[33ma6cebe4[m Indentation fix
+[33mef99b48[m Merge pull request #126 from AnaghDeshpande/student-ui
+[33m5025d81[m Merge pull request #125 from Akshatk-star/patch-1
+[33m6a98729[m Merge branch 'main' into feature/drug-comparison
+[33md297fe9[m created student dashboard
+[33m58a63f0[m Update symptom_checker.html
+[33mf45c7aa[m Drug Comparison Tool
+[33m9cb9ec9[m Merge pull request #106 from shubhranshu-sahu/main
+[33m954c0d3[m Added button to go to My Account Page in all pages
+[33mdc5ec68[m Merge pull request #105 from vanixyz/fix/email-validation-login
+[33m2b18051[m Update backend/static/js/sisu.js
+[33m6e1b1a1[m Update backend/templates/sisu.html
+[33m18181f3[m Fix #99: Add client-side email validation with user feedback
+[33m7d450fe[m Fix #99: Add client-side email validation with user feedback
+[33m2b5057f[m Fix #99: Add client-side email validation with user feedback
+[33mdbafc62[m added dash board error for functionaly testing
+[33m8d11382[m Merge pull request #103 from modi-meet/feat/auto-focus-invalid-fields
+[33m2047f0d[m fixed- Autofocus in Sign-up Form
+[33mb30ce88[m Create pull_request_template.md
+[33mb9b9879[m Merge pull request #102 from khushi-rana-25/bugix/reset
+[33m8efdfa7[m Merge pull request #101 from Neermita18/Neermita18/Fix-Alignment-chat-responses
+[33ma9110c0[m Merge branch 'main' into bugix/reset
+[33md6e96fa[m Add Reset Fields
+[33mfc2a51c[m Revert "Reset Fields"
+[33m330d6f4[m Reset Fields
+[33m970a759[m fix alignment of chat responses (drug info and symptoms checker)
+[33m9f3b07c[m add form reset
+[33m4cca001[m Merge pull request #94 from shubhranshu-sahu/main
+[33m0067544[m added new feature - allergy checker
+[33mebb6fd2[m Merge pull request #89 from Reetkapoor/pres-validator
+[33m6aa40ef[m Merge branch 'pres-validator' of https://github.com/Reetkapoor/Drx.MediMate into pres-validator
+[33mc6b17e5[m Merge branch 'MAVERICK-VF142:main' into pres-validator
+[33mddef806[m Merge branch 'main' into pres-validator
+[33mf3065fa[m corrections
+[33m2ec9a34[m Update backend/utils/gemini_utils.py
+[33m7860453[m Update README.md
+[33m9987e55[m Merge branch 'main' into pres-validator
+[33mde00d41[m Merge pull request #86 from shubhranshu-sahu/main
+[33m5cbe568[m updated README.md and other md files
+[33md827ae6[m new feature added- prescription validator
+[33m96e01c6[m Create CONTRIBUTING.md
+[33maadd081[m Create SECURITY.md
+[33m6342580[m Create CODE_OF_CONDUCT.md
+[33maaa74ca[m Update issue templates
+[33m68355d7[m Merge pull request #70 from shubhranshu-sahu/main
+[33m695333a[m removed hardcoded api
+[33m3f83c09[m  Resolve all conflicts
+[33md2184d1[m Delete .github/labeler.yml
+[33m00b0235[m Delete .github/auto_assign.yml
+[33m20737be[m Delete .github/workflows/auto-assign.yml
+[33m9795cdb[m Update labeler.yml
+[33m71759f4[m Update auto_assign.yml
+[33m056ed29[m Changed name of folders to avoid import conflicts and added some html files to avoid errors like page not found
+[33mc67e69f[m Merge pull request #79 from Tanishq-789/feature/cache-drug-info
+[33m19941d4[m Merge pull request #78 from S-D-Keerthiga-Devi/main
+[33mdde3d19[m 🔁 Added caching for drug info using TTLCache to reduce Gemini API calls
+[33mc1189d7[m Added AI disease prediction feature
+[33m8b35abf[m Merge pull request #77 from radhika-droid/symptom_checker_pageadded
+[33maac4cad[m Added symptom checker page
+[33m7ae2292[m Rename main.py to app.py
+[33ma131326[m Change app.py name , and modified it
+[33m2118df0[m updated requirement file
+[33m8b8939e[m fixing errors
+[33m1bedfaa[m restructured the whole code
+[33m8a3d37a[m Merge pull request #65 from 23f3001526/integrate_with_ori_ui
+[33m62a31a7[m Integrated speech-to-text with original ui and firebase authentication kept intact
+[33m6c9a289[m Merge pull request #59 from shubhranshu-sahu/main
+[33mf146cc2[m Merge branch 'main' into main
+[33m89ca139[m Merge pull request #58 from AnaghDeshpande/upload-image-button
+[33mc7d081d[m Medical scanner not working: AI analysis failed solved
+[33m4eaa243[m added upload button in medicine scanner fixes the issue #44 and #42
+[33md1e7430[m Merge pull request #46 from akathedeveloper/dev
+[33m885995e[m Update templates/sisu.html
+[33m8e52645[m Role Based Added
+[33m7784bbc[m Merge pull request #41 from MAVERICK-VF142/copilot/fix-a170146d-5c3c-402b-9b55-096ddce84981
+[33mbef2155[m Initial plan
+[33mfaadf83[m Merge pull request #37 from sanjanahegde06/gemini_response_bug
+[33mc4cdc63[m Merge pull request #40 from MAVERICK-VF142/revert-36-main
+[33md812713[m Revert "Gemini Response Not Visible in Drug Information Tab solved"
+[33mcd61f61[m Fix: Gemini response not displaying in Drug Information tab
+[33m34a7382[m Merge pull request #36 from shubhranshu-sahu/main
+[33m918ca80[m Gemini Response Not Visible in Drug Information Tab solved
+[33m0ec3486[m Update welcome.yml
+[33mabe19fa[m Update welcome.yml
+[33me600e97[m Merge pull request #33 from BChaitanyaReddy895/contributions
+[33m4787cbe[m Merge branch 'main' into contributions
+[33m27d8257[m Fixes the issue #27 which is of Improve Gemini Response Formatting For Readability
+[33mc332743[m Fixes the issue #27 which is of Improve Gemini Response Formatting For Readability
+[33m43195b0[m Merge pull request #31 from VasuGx/fix/serverless-logging-issue
+[33m5246c4a[m fix: add logging, retry, and timeout for Gemini API (serverless debug)
+[33md339f6a[m Merge pull request #30 from MAVERICK-VF142/revert-28-improve-gemini-api-handling
+[33m05f1f09[m Revert "🔧 Add Timeout, Retry Logic, and Logging for Gemini API Calls"
+[33mdfc6ee7[m Merge pull request #28 from VasuGx/improve-gemini-api-handling
+[33mc86d401[m Add logging, retry, and timeout logic for Gemini API calls
+[33m3551e43[m Merge pull request #26 from akathedeveloper/dev
+[33m6e125a2[m UI Updated
+[33m47a05a5[m Merge pull request #20 from sanjanahegde06/My_account_page
+[33m87addf1[m Merge pull request #19 from akathedeveloper/develop
+[33m2d02134[m my account
+[33m1c92f1e[m created my account page
+[33md3bf9bc[m UI Overhaul - Authentication Pages
+[33m6fa3fa8[m Update README.md
+[33m9552d2c[m Update test.py
+[33m29bc459[m Merge pull request #11 from MAVERICK-VF142/copilot/fix-0dc327a5-14f4-44f3-9930-548e2f85cf7c
+[33m92fb55f[m Initial plan
+[33m177398d[m Merge pull request #10 from MAVERICK-VF142/copilot/fix-22fef1c4-eebf-4f19-a0e5-1fb65c3488fb
+[33m7a32242[m Initial plan
+[33m2ce190f[m Merge pull request #5 from MAVERICK-VF142/copilot/fix-cdbfd184-5c18-4949-a272-9828c9808e9b
+[33m96e4f51[m Initial plan
+[33mee974bd[m Merge pull request #4 from MAVERICK-VF142/copilot/fix-44543af7-e360-47f9-aa77-99853fbe3d20
+[33m1e6eff8[m Initial plan
+[33m455079e[m Merge pull request #2 from MAVERICK-VF142/copilot/fix-6b1ef61f-dae3-4eac-8bfa-556603af1b51
+[33maf87de6[m Merge pull request #3 from MAVERICK-VF142/copilot/fix-ceaaaafa-f0a7-42d0-a4bc-a403b6bfa0f3
+[33mf6fa5bb[m Add GitHub automation files for contribution management
+[33me17a313[m Initial plan
+[33mdb01ee7[m Initial analysis and planning for GitHub automation files
+[33m750bec9[m Initial plan
+[33me8d19ce[m Update app.py
+[33m1c30b6e[m Update requirements.txt
+[33m3aacdfa[m Update app.py
+[33madc015f[m Update app.py
+[33mf203e00[m Update sisu.html
+[33mef1ddc9[m Update drug_info.html
+[33m2c863be[m Merge branches 'main' and 'main' of https://github.com/MAVERICK-VF142/Aditi-Your-Pharmaceutical-Assistant
+[33m699c5f2[m updated the animation
+[33m59b4352[m Update upload_image.html
+[33m646494f[m formattin g
+[33m7067a6c[m improve the animation
+[33m9855c1a[m fixed everything
+[33mcab450d[m app fixed for symptom checker
+[33m3c02d25[m app fixed
+[33mea83305[m fixed the symmpton check
+[33ma8e494f[m fixed sympton cherk
+[33m0cedc22[m fixed symptom checker
+[33m25d5138[m added symptom checker
+[33m0bb2a0e[m Merge branch 'main' of https://github.com/MAVERICK-VF142/Aditi-Your-Pharmaceutical-Assistant
+[33m8627f80[m camera toggle button
+[33mcdfd3bf[m Update drug_info.html
+[33m3137242[m fixed auth redirects
+[33md551e2c[m fixed css of chatbot
+[33md1db0cb[m added security in pages
+[33m81acf80[m added the working feature of photos in medicine
+[33mfeb7730[m changed the api model
+[33m4f60b70[m requriments addition
+[33m650320f[m added camera features
+[33mb6566db[m added new features initilized a dashboard
+[33m11c3f53[m Update sisu.html
+[33mc1466a0[m Update index.html
+[33m8a216e7[m Update sisu.html
+[33m635ed68[m Update index.html
+[33m445622f[m Update index.html
+[33m0f0bd39[m Update index.html
+[33m7b7510d[m Update index.html
+[33mf0d3f61[m Update README.md
+[33mbb0561a[m Update test.py
+[33mddb718a[m Update requirements.txt
+[33m145dbb8[m Update requirements.txt
+[33mdb7b5b0[m Update app.py
+[33md58fbcd[m Update requirements.txt
+[33md16e567[m Update app.py
+[33mfc84eeb[m Update app.py
+[33m265a1df[m Update app.py
+[33mefbce18[m Update app.py
+[33m0609a84[m Update app.py
+[33md22951c[m Update app.py
+[33m99bbe5f[m Update app.py
+[33m7187c48[m Update app.py
+[33m14ff7e3[m Update app.py
+[33m1aa2b86[m Update app.py
+[33med3059f[m Update app.py
+[33md1f54e8[m Update app.py
+[33m60ffeb7[m Update app.py
+[33macae23a[m Update app.py
+[33m9d3c263[m Update styles.css
+[33mb26f8ff[m Update sisu.html
+[33m81ea982[m change ui color
+[33ma1fdd45[m added password recovery system
+[33m01c8479[m added email verification and fixed input css
+[33m138bc78[m improved ui elements
+[33m46cf66b[m Update styles.css
+[33mb9ae010[m Update index.html
+[33m1ec515e[m Update styles.css
+[33ma3b7041[m change ui elemets of susi
+[33m7ff8427[m fixed authentication
+[33m32f86df[m Update sisu.html
+[33m59e2d9f[m Update styles.css
+[33m2e35ac9[m added signup and signin
+[33m40ab9e8[m imporive ui elements
+[33m4ea3b57[m changed the ui
+[33m965b041[m Update app.py
+[33mc4b2903[m Update app.py
+[33mc73489b[m Update requirements.txt
+[33m761728a[m Update requirements.txt
+[33mff0aeb7[m Update requirements.txt
+[33m2cf0858[m Update requirements.txt
+[33mb4530fe[m vercel deployment
+[33m8ca6cd0[m base commit
+[33m6885983[m Update README.md
+[33m506f8dd[m Initial commit
